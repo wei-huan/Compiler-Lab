@@ -1,0 +1,18 @@
+258 int 4
+FuncDef in
+FuncType in
+FuncType out1
+256 a 5
+289 ; 5
+回溯新位置: 6
+FuncDef out7
+回溯新位置: 6
+289 ; 5
+Decl in
+ConstDecl in
+ConstDecl out5
+VarDecl in
+BType in
+VarDecl out5
+Decl out3
+不符合SysY文法
